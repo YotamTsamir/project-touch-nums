@@ -34,8 +34,9 @@ body{
     background-size: 200px;
 }
 .buttons{
-    display: inline-block;
-    margin-left: 650px;;
+    /* display: inline-block; */
+    width: 700px;
+    margin: auto;
 }
 
 button{
